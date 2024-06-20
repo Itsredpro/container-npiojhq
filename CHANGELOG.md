@@ -1,3 +1,15 @@
+# v0.0.2 (Thu Jun 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update index.js ([@Itsredpro](https://github.com/Itsredpro))
+
+#### Authors: 1
+
+- RedDev ([@Itsredpro](https://github.com/Itsredpro))
+
+---
+
 # v0.0.1 (Thu Jun 20 2024)
 
 :tada: This release contains work from a new contributor! :tada:
