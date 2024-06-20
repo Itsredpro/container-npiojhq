@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Itsredpro",
+  "repo": "container-npiojhq",
+  "name": "Itsredpro",
+  "email": "thomhmail@gmail.com",
+}
